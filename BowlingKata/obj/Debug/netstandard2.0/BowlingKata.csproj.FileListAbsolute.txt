@@ -1,0 +1,8 @@
+C:\Users\myhog\source\repos\BowlingKata\BowlingKata\bin\Debug\netstandard2.0\BowlingKata.deps.json
+C:\Users\myhog\source\repos\BowlingKata\BowlingKata\bin\Debug\netstandard2.0\BowlingKata.dll
+C:\Users\myhog\source\repos\BowlingKata\BowlingKata\bin\Debug\netstandard2.0\BowlingKata.pdb
+C:\Users\myhog\source\repos\BowlingKata\BowlingKata\obj\Debug\netstandard2.0\BowlingKata.csprojAssemblyReference.cache
+C:\Users\myhog\source\repos\BowlingKata\BowlingKata\obj\Debug\netstandard2.0\BowlingKata.AssemblyInfoInputs.cache
+C:\Users\myhog\source\repos\BowlingKata\BowlingKata\obj\Debug\netstandard2.0\BowlingKata.AssemblyInfo.cs
+C:\Users\myhog\source\repos\BowlingKata\BowlingKata\obj\Debug\netstandard2.0\BowlingKata.dll
+C:\Users\myhog\source\repos\BowlingKata\BowlingKata\obj\Debug\netstandard2.0\BowlingKata.pdb
